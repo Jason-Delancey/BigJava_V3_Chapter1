@@ -21,11 +21,10 @@ public class NamePrinter
 		 * for the roof and ceiling*/
 		String aName = JOptionPane.showInputDialog("What is your name?");
 		int roof = aName.length();
-		int ceiling = roof;
 		
 		/* Create the ceiling of the frame */
 		System.out.print('+');
-		for(int i = 0; i < aName.length(); i++)
+		for(int i = 0; i < roof; i++)
 		{
 			System.out.print('-');
 		}
