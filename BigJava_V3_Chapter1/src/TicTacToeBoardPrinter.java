@@ -3,7 +3,7 @@
  */
 
 /**
- * Prints a tic-tac-toe board
+ * Prints a tic tac toe board
  * @author CloudStrife
  *
  */
