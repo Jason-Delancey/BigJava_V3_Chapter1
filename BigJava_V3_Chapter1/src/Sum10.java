@@ -6,7 +6,7 @@ import java.util.logging.Logger;
  */
 
 /**
- * Computes the sum of the first ten positive integers
+ * Computes the sum of the first ten positive integers.
  * @author CloudStrife
  *
  */
