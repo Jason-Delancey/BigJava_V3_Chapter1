@@ -24,7 +24,7 @@ public class Stairs
 	}
 
 	/**
-	 * Main method of the class that makes the flights of steps using helper methods
+	 * Main method of the class that makes the flights of steps using the other helper methods
 	 */
 	public void makeSteps()
 	{
@@ -42,8 +42,7 @@ public class Stairs
 	/**
 	 * This helper method makes the walls between each block of steps
 	 * 
-	 * @param wall
-	 *            The amount of walls to make between each block of steps
+	 * @param wall The amount of walls to make between each block of steps
 	 */
 	private void makeWalls(int wall)
 	{
@@ -60,8 +59,7 @@ public class Stairs
 	/**
 	 * This helper method makes the roof for each block of steps
 	 * 
-	 * @param roof
-	 *            The amount of roofs to make for each block of steps
+	 * @param roof The amount of roofs to make for each block of steps
 	 */
 	private void makeRoof(int roof)
 	{
